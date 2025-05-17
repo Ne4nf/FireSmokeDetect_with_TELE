@@ -6,6 +6,14 @@ The system continuously analyzes video streams (from a webcam or saved footage),
 
 ---
 
+https://github.com/user-attachments/assets/1a2a3273-ee5c-4d0e-953c-643695e77d71
+
+---
+
+https://github.com/user-attachments/assets/39eba0fa-687c-4ee3-8dcc-4805bbf85bea
+
+---
+
 ## 🚀 Features  
 - **Real-Time Detection**: Detects fire and smoke in video streams with high accuracy using YOLOv11.
 - **Motion Detection**: Filters frames based on motion detection to reduce false positives. 
